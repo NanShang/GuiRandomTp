@@ -1,0 +1,5 @@
+name: GuiRandomTp
+version: '${version}'
+main: rt.guirandomtp.GuiRandomTp
+api-version: 1.17
+authors: [ NS ]
